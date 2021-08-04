@@ -25,3 +25,5 @@ Based on our study, we recommend the following steps to further understand the r
 A notebook for exploratory data analysis can be found [here](https://github.com/JiayingChen0307/gef/blob/master/covariates.ipynb).
 
 The Python script for combining and reforming data is linked [here](https://github.com/JiayingChen0307/gef/blob/master/propensity_prep.py).
+
+Full report [here](https://github.com/JiayingChen0307/gef/blob/master/gef_report.pdf)
